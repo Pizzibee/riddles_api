@@ -3,10 +3,10 @@ const Pool = require('pg').Pool;
 const bcrypt = require('bcrypt');
 const jwtUtils = require('../utils/jwtUtils');
 const pool = new Pool({
-  user: 'sushilg',
+  user: '', //add username here
   host: 'localhost',
   database: 'whelp_test',
-  password: 'pepperoni5935486',
+  password: '', //add password here
   port: 5432,
 });
 
