@@ -12,12 +12,12 @@ To run the API :
  
 Routes :  
   - Register : 
-    -POST : /users/register
-  -Login : 
-    -POST : /users/login
-  -Retrieve all riddles :
-    -GET : /riddles
-  -Retrieve one specific user's riddles :
-    -GET : /riddles/:userId
-  -Create a riddle : 
-    -POST /riddles
+    - POST : /users/register
+  - Login : 
+    - POST : /users/login
+  - Retrieve all riddles :
+    - GET : /riddles
+  - Retrieve one specific user's riddles :
+    - GET : /riddles/:userId
+  - Create a riddle : 
+    - POST /riddles
