@@ -1,0 +1,26 @@
+{
+  "name": "riddles_api",
+  "version": "1.0.0",
+  "description": "Riddles API for Whelp Backend Test by Sushil Ghambir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pizzibee/riddles_api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pizzibee/riddles_api/issues"
+  },
+  "homepage": "https://github.com/Pizzibee/riddles_api#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.5",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.5.1",
+    "pg": "^7.9.0"
+  }
+}
