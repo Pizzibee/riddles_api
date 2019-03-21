@@ -3,6 +3,7 @@ Riddles API for Whelp Backend Test by Sushil Ghambir
 
 To run the API : 
   - Create a db in postgres called whelp_test
+  - Execute the script init.sql on the db.
   - Change the db connection settings in the apiController.js file
     - Add your username
     - Add your password
