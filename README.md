@@ -7,7 +7,8 @@ To run the API :
   - Change the db connection settings in the apiController.js file
     - Add your username
     - Add your password
-  - Run the API with : 'node index.js'
+  - Build the projet with : 'npm run build'
+  - Run the API with : 'npm run start'
   
  
  
